@@ -227,7 +227,7 @@ A class Rectangle that defines a rectangle by:
         * Returns ``` rect_1 ``` if both have the same area value.
 - Class method ``` def square(cls, size=0): ``` that returns a new Rectangle instance with ``` width == height == size ```
 
-##101-nqueens.py
+## 101-nqueens.py
 
 The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem.
 
